@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configurações
-DOWNLOAD_URL="https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.3-6242596486512640/linux-x64/Antigravity%20IDE.tar.gz"
+DOWNLOAD_URL="https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/2.0.4-6381998290370560/linux-x64/Antigravity%20IDE.tar.gz"
 TARBALL="Antigravity IDE.tar.gz"
 PKG_NAME="antigravity-ide"
 VERSION="2.0.3"
