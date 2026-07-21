@@ -12,7 +12,7 @@ The script download antigravity-ide from https://antigravity.google/download and
 2. Install the .deb package:
 
 ```bash
-sudo dpkg -i antigravity-ide_2.0.3_amd64.deb
+sudo dpkg -i antigravity-ide_2.1.1_amd64.deb
 ``` 
 
 3. Uninstall antigravity-ide
